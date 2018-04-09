@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGroupChat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="online">Online Users</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="welcome_message">My Group Chat</string>
+</resources>
